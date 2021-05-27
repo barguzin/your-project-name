@@ -20,6 +20,7 @@ RUN pip install \
         jupyter-rsession-proxy==1.0b6 \
         jupyterlab-git==0.23.3 \
         cookiecutter==1.7.2 \
+        modin[ray] \
         jupyter_http_over_ws>=0.0.7 && \
     jupyter serverextension enable --py jupyter_http_over_ws && \
     jupyter lab build
