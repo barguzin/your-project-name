@@ -5,7 +5,7 @@
 My project with Jupyter Notebook
 
 ---
-**You can find a working Jupyter notebook running Python :warning:[here](https://hub.gke2.mybinder.org/user/barguzin-your-project-name-ifxgzguj/notebooks/work/py_notebook.ipynb):warning:**
+**You can find a working Jupyter notebook running Python :warning:[here](https://mybinder.org/v2/gh/barguzin/your-project-name/9a51a94ce3f8ef8553bad81392c7de868e0cb13a):warning:**
 ---
 
 ## Instructions
