@@ -4,6 +4,8 @@
 
 My project with Jupyter Notebook
 
+**You can find running jupyter notebook [here](https://hub.gke2.mybinder.org/user/barguzin-your-project-name-ifxgzguj/notebooks/work/py_notebook.ipynb)**
+
 ## Instructions
 
 ### Install Dependencies
